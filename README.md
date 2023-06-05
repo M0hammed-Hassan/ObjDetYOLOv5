@@ -20,6 +20,6 @@ Alternatively, a pretrained YOLOv5 model can be used for object detection. The f
 
 
 # Results 
-<img src = 'Images/results.png'>
-<img src = 'Images/people.png'>
-<img src = 'Images/cars.png'>
+<img src = 'Images/results.png' alt = 'The Model Performance'>
+<img src = 'Images/people.png' alt = 'Test Image1'>
+<img src = 'Images/cars.png' alt = 'Test Image2'>
